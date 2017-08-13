@@ -1,5 +1,5 @@
-# WiFi-Password_Grabber-Rubber-Ducky
-🐤   A USB Rubber Ducky Script For Both Arduino Micro and Real Rubber Ducky 🐥
+# Arduino-Rubber-Ducky
+🐤  Some Cool USB Rubber Ducky Script For Both Arduino Micro and Real Rubber Ducky 🐥
 
 # Do Not Use This To Do Evil.
   My Purpose was to create something out of my Arduino Micro for Penetration Testing.
